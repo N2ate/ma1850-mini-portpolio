@@ -1,0 +1,1 @@
+This is a small animation of words appearing and dissapering on screeen this task was a bit hard to follow through as i kept messing up but got it working in the end as seen in the celebration as the display text
