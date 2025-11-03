@@ -1,0 +1,16 @@
+let img;
+
+// Load the image.
+function preload() {
+  img = loadImage('silver guy.webp');
+}
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+// Draw the image.
+  image(img, 0, 0);
+}
